@@ -1,4 +1,4 @@
-androguard==3.5.5
+androguard==3.3.5
 argparse
 future
 jinja2
